@@ -34,6 +34,6 @@ Advanced features:
  - [ ] Plugins
 
 # License
-[The Keydeck](https://github.com/veillax1354/MQTT-Keydeck) © 2023 by [Veillax](https://github.com/veillax1354) is licensed under [GNU General Public License v3](https://choosealicense.com/licenses/gpl-3.0/).
+[The Keydeck](https://github.com/veillax1354/MQTT-Keydeck) © 2023 by [Veillax](https://github.com/veillax1354) is licensed under [GNU General Public License v3](https://www.gnu.org/licenses/gpl-3.0.txt).
 
 ###### NOTE: This project (The Keydeck) is not related in any way to `KeyDeck`, `KeyDeck One`, or any other projects owned by `KeyDeck Ltd`, and is not the same. This project is a desktop/mobile app with the ability for a custom hardware pad, not a purchasable 6-key + joystick macro pad. These two projects are not related, nor are they owned by the same people. 
