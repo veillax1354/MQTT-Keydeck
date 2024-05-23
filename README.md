@@ -10,7 +10,9 @@ enabled mobile/desktop application.
 The premise of this project is a keypad app in which the user may control any Windows device using MQTT  
 
 ### How it works
-So far, the only way to use this is with Home Assistant or an ESP32 and custom software
+So far, the only way to use this is with Home Assistant or an ESP32 and custom software  
+
+
 On your Windows device, download the python scripts to:
  - Set up macros and folders
  - Edit configuration
