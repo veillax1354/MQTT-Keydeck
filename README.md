@@ -10,12 +10,8 @@ enabled mobile/desktop application.
 The premise of this project is a keypad app in which the user may control any Windows device using MQTT  
 
 ### How it works
-On an android phone or tablet, or other computer, download the companion app and set it up. This app will include:  
- - An MQTT Broker
- - Customizable Buttons that support icons and images
- - Usable Folders to organize macros
-
-On your Windows device, download the desktop app to:
+So far, the only way to use this is with Home Assistant or an ESP32 and custom software
+On your Windows device, download the python scripts to:
  - Set up macros and folders
  - Edit configuration
  - Customize macros
@@ -45,6 +41,6 @@ Advanced features:
    - [x] Community Plugins SDK
 
 # License
-[The Keydeck](https://github.com/veillax1354/MQTT-Keydeck) © 2023 by [Veillax](https://github.com/veillax1354) is licensed under GNU General [Public License v3](https://choosealicense.com/licenses/gpl-3.0/).
+[The Keydeck](https://github.com/veillax1354/MQTT-Keydeck) © 2023 by [Veillax](https://github.com/veillax1354) is licensed under [GNU General Public License v3](https://choosealicense.com/licenses/gpl-3.0/).
 
 ###### NOTE: This project (The Keydeck) is not related in any way to `KeyDeck`, `KeyDeck One`, or any other projects owned by `KeyDeck Ltd`, and is not the same. This project is a desktop/mobile app with the ability for a custom hardware pad, not a purchasable 6-key + joystick macro pad. These two projects are not related, nor are they owned by the same people. 
