@@ -42,7 +42,7 @@ Advanced features:
    - [ ] Twitter
    - [ ] Spotify
    - [ ] Zoom
-   - [ ] Community Plugins SDK
+   - [x] Community Plugins SDK
 
 # License
 [The Keydeck](https://github.com/veillax1354/MQTT-Keydeck) © 2023 by [Veillax](https://github.com/veillax1354) is licensed under GNU General [Public License v3](https://choosealicense.com/licenses/gpl-3.0/).
